@@ -18,7 +18,6 @@ Usando todas las buenas prácticas de programador que conozcas, tienes como prim
 2. **Registrar nuevo Pokemon**:
    - Como segunda tarea deberás crear la funcionalidad para poder registrar un nuevo Pokemon.
    - Cuando le des al botón de "Nuevo Pokemon" de la esquina derecha superior:
-     ![image](https://github.com/IMPACKTA/seleccion_impackta/assets/30071404/205340e1-b5be-4377-b0e2-6f334025e595)
    - Tiene que emerger una ventana tipo modal (ya hay un esqueleto en `index.php`), en la que pueda rellenar los datos del nuevo Pokemon que registraré.
    - Este modal tiene que tener, aparte de los inputs necesarios para crear un nuevo Pokemon, un botón para cerrarse y otro para guardar los cambios.
 
