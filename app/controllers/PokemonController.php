@@ -45,7 +45,7 @@ class PokemonController
         }
 
         // Redirigir a la página principal
-        header('Location: ../index.php');
+        header('Location: ../../index.php');
         exit;
     }
 }
